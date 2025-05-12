@@ -296,9 +296,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Statistics
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/developershub-security)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/developershub-security)
-![GitHub code size](https://img.shields.io/github/languages/code-size/your-username/developershub-security)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/notfawadmir/Juice-Shop-Part-2)
+![GitHub last commit](https://img.shields.io/github/last-commit/notfawadmir/Juice-Shop-Part-2)
+![GitHub code size](https://img.shields.io/github/languages/code-size/notfawadmir/Juice-Shop-Part-2)
 
 ---
 
