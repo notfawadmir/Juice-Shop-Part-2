@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Fawad Ahmed Mir**
-- LinkedIn: [https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba?]
+- LinkedIn: [https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba]
 - Email: fawadmeer000@gmail.com
 - GitHub: [https://www.github.com/notfawadmir]
 
