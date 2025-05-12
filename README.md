@@ -73,17 +73,17 @@ developershub-security/
 ├── src/
 │   ├── api/
 │   │   ├── middleware/
-│   │   │   ├── auth.js
-│   │   │   ├── rateLimiter.js
-│   │   │   └── security.js
+│   │   │   ├── auth.ts
+│   │   │   ├── rateLimiter.ts
+│   │   │   └── security.ts
 │   │   └── routes/
 │   ├── config/
-│   │   ├── security.js
-│   │   ├── cors.js
-│   │   └── csp.js
+│   │   ├── security.ts
+│   │   ├── cors.ts
+│   │   └── csp.ts
 │   └── utils/
-│       ├── validation.js
-│       └── sanitization.js
+│       ├── validation.ts
+│       └── sanitization.ts
 ├── security/
 │   ├── fail2ban/
 │   ├── ossec/
